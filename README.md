@@ -1,4 +1,4 @@
-[ ![](overlays/frame2.png) ](http://BitSits.com)
+[ ![](overlays/frame2.png) ](https://www.bitsits.games)
 
 # Atooms to Moolecules
 
